@@ -20,11 +20,13 @@ An attempt to implement the screenshot generation of telegram files without down
 * Clone to local machine.
 
 ``` bash
-$ git clone https://github.com/odysseusmax/animated-lamp.git
+$ git clone https://github.com/JaveethRoshan/animated-lamp.git
 $ cd animated-lamp
 ````
 
 * Create and activate virtual environment.
+Deploy# https://githubdeploy.Com/JaveethRoshan/animated-lamp.git
+
 
 ```
 $ python3 -m venv venv
