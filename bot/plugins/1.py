@@ -11,12 +11,12 @@ from bot.database import Database
 db = Database()
 
 
-@ScreenShotBot.on_callback_query()
+@TMTScreenShotBot.on_callback_query()
 async def __(c, m):
     await foo(c, m, cb=True)
 
 
-@ScreenShotBot.on_message(filters.private)
+@TMTScreenShotBot.on_message(filters.private)
 async def _(c, m):
     await foo(c, m)
 
