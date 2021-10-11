@@ -25,7 +25,7 @@ $ cd animated-lamp
 ````
 
 * Create and activate virtual environment.
-Deploy# https://github.Com /JaveethRoshan/animated-lamp.git
+Deploy# https://github.Com/JaveethRoshan/animated-lamp.git
 
 
 ```
